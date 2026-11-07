@@ -1,0 +1,4 @@
+Setup instructions
+
+Install dependencies with uv, then start the server over stdio.
+The database setup uses a local file, not a remote host.

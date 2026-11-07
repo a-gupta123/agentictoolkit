@@ -1,0 +1,8 @@
+# Folders this server is allowed to search. One path per line.
+# Only these folders are read. Paths may be outside this project.
+# Copy this file to search_roots.txt and replace the examples with your own folders.
+# Relative paths are based on this file. Absolute paths are allowed too.
+
+sample-docs
+# /Users/yourname/specs
+# /Users/yourname/notes

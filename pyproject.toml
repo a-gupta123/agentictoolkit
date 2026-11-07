@@ -1,0 +1,8 @@
+[project]
+name = "search-local-docs"
+version = "0.1.0"
+description = "Local markdown and text search MCP server"
+requires-python = ">=3.13"
+dependencies = [
+    "mcp[cli]>=2.3.0",
+]
